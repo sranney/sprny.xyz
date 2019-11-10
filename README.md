@@ -1,0 +1,2 @@
+# sprny.xyz
+url shortener
